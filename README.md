@@ -1,6 +1,5 @@
 # UnicastTransportProtocol
 - 사용 언어: C
-- Github link: 
 - UDP를 이용한 파일 전송 프로그램입니다.
 	- 해당 프로그램은 slurpe-3라는 프로그램과 같이 실행되어야하는 프로그램입니다.
 	- slurpe-3 프로그램은 Unix에서만 사용가능한 프로그램입니다.
